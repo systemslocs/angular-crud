@@ -1,0 +1,44 @@
+.home .title{
+    font-size: 3rem;
+    font-weight: 300;
+    line-height: 1.2;
+    margin-bottom: 15px;
+    text-align: center;
+}
+.home .subtitle{
+    font-size: 1.1rem;
+    margin-top: 15px;
+    text-align: center;
+}
+.example-card {
+    max-width: 400px;
+    margin-top: 15px;
+    margin-left: 30%;
+  }
+  
+  .example-header-image {
+    background-image: url('https://scontent.fjdo1-1.fna.fbcdn.net/v/t1.6435-9/184817253_4005107879568594_7081772081496377601_n.jpg?_nc_cat=111&ccb=1-3&_nc_sid=09cbfe&_nc_ohc=tI-PlptbCA0AX-4lPH0&_nc_ht=scontent.fjdo1-1.fna&oh=76cedaca79b75a1980fb7fa5501f9b07&oe=60E388BF');
+    background-size: cover;
+  }
+  .like  i{
+      color: #e35e6b;
+      vertical-align: middle;
+      margin-right: 5px;
+  }
+  .share i{
+    color: #a7a5b6;
+    vertical-align: middle;
+    margin-right: 5px;
+  }
+  .footer{
+    position: static;
+    margin-top: 15px;
+    bottom: 0;
+    display: flex;
+    justify-content:center
+}
+.footer > span{
+    font-weight: 300;
+    font-size: 1rem;
+    
+}
